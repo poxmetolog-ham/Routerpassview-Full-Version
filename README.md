@@ -239,3 +239,6 @@ This repository serves as the official landing page for RouterPassView. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of RouterPassView today!**
+
+---
+**Last updated:** 2026-09-11 19:07:55 UTC
